@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Dami1VDC
-- 👀 I’m interested in backend
+- 👋 Hi, I’m Damien
+- 👀 I’m interested in backend mostly!
 - 🌱 I’m currently learning pHp
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
