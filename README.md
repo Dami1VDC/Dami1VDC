@@ -6,7 +6,7 @@
 
 👨‍💻 Open to work in June !
 
-![Cover](https://github.com/Dami1VDC/Dami1VDC/img/DSC05989.jpg)
+![Cover](https://www.pexels.com/fr-fr/photo/six-ampoules-halogenes-401107/)
 
 <!---
 Dami1VDC/Dami1VDC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
