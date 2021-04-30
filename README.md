@@ -6,7 +6,7 @@
 
 👨‍💻 Open to work in June !
 
-![Cover](https://github.com/Dami1VDC/Fond_abstrait_gris_clair-Conception_Theme_HD_Fond_d'écran Fond d'écran__1920x1200[10wallpaper.com])
+![Cover](https://github.com/Dami1VDC/cover.jpg)
 <!---
 Dami1VDC/Dami1VDC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
