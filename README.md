@@ -6,7 +6,7 @@
 
 👨‍💻 Open to work in June !
 
-![Cover](Saved Pictures/pexels-thiago-japyassu-1069798.jpg)
+![Cover](https://github.com/Dami1VDC/Dami1VDC/blob/main/Saved%20Pictures/pexels-saya-kimura-401107.jpg)
 
 <!---
 Dami1VDC/Dami1VDC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
