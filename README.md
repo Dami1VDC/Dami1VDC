@@ -6,7 +6,7 @@
 
 👨‍💻 Open to work in June !
 
-![Cover]
+![Cover](https:/Dami1VDC/Dami1VDC/cover.jpg
 <!---
 Dami1VDC/Dami1VDC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
