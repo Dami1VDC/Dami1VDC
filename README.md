@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning Angular
 - 💞️ I’m looking to collaborate on an internship!
 - 📫 How to reach me: www.linkedin.com/in/damvdc, or damvdc@gmail.com.
+- 🧻 You can find my resume right here 😋☝🏻
 
 
 👨‍💻 Open to work now !
