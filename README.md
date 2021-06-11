@@ -1,6 +1,6 @@
 
 - 👋 Hello there, I’m Damien!
-- 🧻 You can find my resume right here 😋☝🏻
+- 🧻 You can find my resume right here in this repository 😋☝🏻
 - 👀 I’m interested in backend mostly
 - 🌱 I’m currently learning Angular
 - 💞️ I’m looking to collaborate on an internship!
