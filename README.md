@@ -6,7 +6,7 @@
 - 📫 How to reach me: www.linkedin.com/in/damvdc, or damvdc@gmail.com.
 
 
-👨‍💻 Open to work in June !
+👨‍💻 Open to work now !
 
 
 <!---
