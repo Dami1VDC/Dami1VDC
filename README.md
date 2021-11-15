@@ -7,7 +7,7 @@
 - 📫 How to reach me: www.linkedin.com/in/damvdc, or damvdc@gmail.com.
 
 
-👨‍💻 Open to work right now !
+👨‍💻 Ready to work right now !
 
 
 <!---
