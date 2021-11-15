@@ -3,7 +3,7 @@
 - 🧻 You can find my resume right here in this repository 😋☝🏻
 - 👀 I’m interested in backend mostly
 - 🌱 I’m currently learning technologies related to Microsoft CRM (PowerPlatform)
-- 💞️ I’m looking to collaborate on an internship!
+- 💞️ I’mworking with Masao https://www.masao.eu/
 - 📫 How to reach me: www.linkedin.com/in/damvdc, or damvdc@gmail.com.
 
 
