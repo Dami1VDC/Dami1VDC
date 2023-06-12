@@ -1,9 +1,9 @@
 
 - 👋 Hello there, I’m Damien!
 - 🧻 You can find my resume right here in this repository 😋☝🏻
-- 👀 I’m interested in backend mostly
-- 🌱 I’m currently learning technologies related to Microsoft CRM (PowerPlatform)
-- 💞️ I’mworking with Masao https://www.masao.eu/
+- 👀 I’m interested in low-code and no-code technologies mostly, but also in backend dev.
+- 🌱 I’m a PowerPlateform developper
+- 💞️ I’m currently working with Orange Business
 - 📫 How to reach me: www.linkedin.com/in/damvdc, or damvdc@gmail.com.
 
 
